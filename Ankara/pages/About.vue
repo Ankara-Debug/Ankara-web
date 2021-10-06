@@ -23,6 +23,8 @@
     </header>
     
     <body>
+        <AboutHead />
+
         <About />
     </body>
 

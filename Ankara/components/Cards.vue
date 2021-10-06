@@ -7,7 +7,7 @@
         <div class="contenedor">
             <div class="card a">
                 <div class="card-encabezado">
-                    <img src="@/static/AKFORME.svg" alt="ankara for me">
+                    
                 </div>
                 <div class="card-iconos">
                     <li class="agrandar"><a href="https://www.instagram.com/ankaraformeve/?hl=es-la"><span class="fab fa-instagram"></span></a></li>    
@@ -27,7 +27,7 @@
 
             <div class="card b">
                 <div class="card-encabezado">
-                    <img src="@/static/AKSTUDIO.svg" alt="ankara for me">
+                    
                 </div>
                 <div class="card-iconos">
                     <li class="agrandar"><a href="https://www.instagram.com/ankarastudiove/?hl=es-la"><span class="fab fa-instagram"></span></a></li>    
@@ -92,11 +92,13 @@
 }
 
 .a{
-    background: url(@/static/card_as.svg);
+    background: url(@/static/card_as.png);
+    background-repeat: no-repeat;
 }
 
 .b{
-    background: url(@/static/card_ak.svg);
+    background: url(@/static/card_ak.png);
+    background-repeat: no-repeat;
 }
 
 .card:hover{
@@ -105,13 +107,13 @@
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
-.card-encabezado img {
+.card-encabezado {
     position: relative;
     display: block;
     object-fit: cover;
     margin: 20px auto;
     transition: all 0.3s ease;
-    padding-top: 1.5em;
+    padding-top: 12em;
 }
 
 .card-iconos{
@@ -178,7 +180,7 @@
     
     .contenedor{
         grid-template-columns: 1fr;
-        max-width: 80%;
+        max-width: 25em;
     }
     .card{
         width: 100%;

@@ -30,12 +30,14 @@
         
         <Saside />
 
-        <Sasidemob /> 
+        <Sbodymob /> 
         
         <Sbody />
 
       </div>
 
+
+      
     </body>
 
     <footer>
@@ -111,7 +113,6 @@ input[type="checkbox"]{
 }
 
 .aside__container{
-  border: 1px solid black;
   width: 100%;
   height: 140vh;
   display: flex;
@@ -165,8 +166,7 @@ input[type="checkbox"]{
 
   .aside__container{
   width: 100%;
-  height: 20vh;
-  border: 1px solid black;
+  height: 160vh;
   display: block;
   }
 }

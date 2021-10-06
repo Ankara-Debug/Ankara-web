@@ -30,75 +30,11 @@
         
         <Saside />
 
-        <Sasidemob /> 
+        <Sbodymob /> 
         
-        <div class="body__container">
-        <div class="container__card">
-            <div class="card__contain">
-                <div class="contain__photo">
-                    <img src="@/static/ANKARA.svg" alt="logo ankara">
-                </div>
-                <div class="contain__txt">
-                    <h1>Edificio Los Hermanos</h1>
-
-                    <h2>Caracas</h2>
-
-                    <p>Av. ppal. de Los Cortijos entre 3ra transversal y autopista edificio Los Hermanos piso 1.</p>
-
-                    <button class="button__card">Visitar Tienda</button>
-                </div>
-            </div>
-
-            <div class="card__contain">
-                <div class="contain__photo">
-                    <img src="@/static/ANKARA.svg" alt="logo ankara">
-                </div>
-                <div class="contain__txt">
-                    <h1>Edificio Los Hermanos</h1>
-
-                    <h2>Caracas</h2>
-
-                    <p>Av. ppal. de Los Cortijos entre 3ra transversal y autopista edificio Los Hermanos piso 1.</p>
-
-                    <button class="button__card">Visitar Tienda</button>
-                </div>
-            </div>
-
-            <div class="card__contain">
-                <div class="contain__photo">
-                    <img src="@/static/ANKARA.svg" alt="logo ankara">
-                </div>
-                <div class="contain__txt">
-                    <h1>Edificio Los Hermanos</h1>
-
-                    <h2>Caracas</h2>
-
-                    <p>Av. ppal. de Los Cortijos entre 3ra transversal y autopista edificio Los Hermanos piso 1.</p>
-
-                    <button class="button__card">Visitar Tienda</button>
-                </div>
-            </div>
-
-            <div class="card__contain">
-                <div class="contain__photo">
-                    <img src="@/static/ANKARA.svg" alt="logo ankara">
-                </div>
-                <div class="contain__txt">
-                    <h1>Edificio Los Hermanos</h1>
-
-                    <h2>Caracas</h2>
-
-                    <p>Av. ppal. de Los Cortijos entre 3ra transversal y autopista edificio Los Hermanos piso 1.</p>
-
-                    <button class="button__card">Visitar Tienda</button>
-                </div>
-            </div>
-        </div>
-    </div>
+        <StatesAragua />
 
       </div>
-
-      
 
     </body>
 
@@ -175,7 +111,6 @@ input[type="checkbox"]{
 }
 
 .aside__container{
-  border: 1px solid black;
   width: 100%;
   height: 140vh;
   display: flex;
@@ -229,8 +164,7 @@ input[type="checkbox"]{
 
   .aside__container{
   width: 100%;
-  height: 20vh;
-  border: 1px solid black;
+  height: 160vh;
   display: block;
   }
 }

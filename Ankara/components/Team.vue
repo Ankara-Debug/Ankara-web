@@ -32,7 +32,7 @@
     height: 43em;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
 }
 
 .subcontainer__team{
