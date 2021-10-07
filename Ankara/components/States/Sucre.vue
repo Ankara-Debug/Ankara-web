@@ -12,7 +12,7 @@
 
                     <p>Av. Bermúdez con calle Las Casas, Edif. Matilde, PB, Local #125.</p>
 
-                    <Nuxt-link to="/Paginasinternas/Puerto/AltaVista" ><button class="button__card">Visitar Tienda</button></Nuxt-link>
+                    <Nuxt-link to="/Paginasinternas/Sucre/Cumana" ><button class="button__card">Visitar Tienda</button></Nuxt-link>
                 </div>
             </div>
         </div>

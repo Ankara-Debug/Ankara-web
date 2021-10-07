@@ -38,12 +38,12 @@
                     <nav>
                         <ul class="list">
                             <div class="about__container">
-                                <li><a href="#" class="links">About</a></li>
-                                <li><a href="#" class="links">Services</a></li>
+                                <li class="li__txt"><Nuxt-link to="/" class="lnk">Home</Nuxt-link></li>
+                                <li><Nuxt-link to="/About" class="lnk">About</Nuxt-link></li>
                             </div>
                             <div class="about__container">
+                                <li><Nuxt-link to="/Stores" class="lnk">Stores</Nuxt-link></li>
                                 <li><a href="#" class="links">Gallery</a></li>
-                                <li><a href="#" class="links">Feedback</a></li>
                             </div>
                         </ul>
                     </nav>
@@ -57,6 +57,16 @@
 </template>
 
 <style>
+
+.lnk{
+    color: black;
+    text-decoration: none !important;;
+}
+
+.lnk:hover{
+    color: black;
+}
+
 .map__1{
     width: 2em;
     margin-left: 6em;
@@ -217,7 +227,7 @@
     display: flex;
     flex-direction: column;
     text-decoration: none;
-
+    border: 1px solid black;
 }
 
 
@@ -228,6 +238,7 @@
     justify-content: space-between;
     margin-left: 3em;
     text-decoration: none;
+    border: 1px solid black;
 }
 
 .links{

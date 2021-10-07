@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="Int__cont C">
-            <h1 class="titlee">Centro Comercial Damasco</h1>
+            <h1 class="titlee">La Hoyada</h1>
         </div>
 
         <div class="Int__body">
@@ -44,7 +44,7 @@
                     <div class="inside__first__contain">
                         <h2>Direccion</h2>
 
-                        <p class="txt__descrip s">Centro Comercial Damasco Avenida Cruz Paredes, Local #3.</p>
+                        <p class="txt__descrip s">Coliseo a Salvador de León, edificio La Galería local 0, al lado de la estación del metro La Hoyada.</p>
                     </div>
 
                     <div class="inside__first__contain">
@@ -75,7 +75,7 @@
                             <img src="@/static/celular.svg" alt="carrito" class="icon">
                         </div>
                         <div class="contain__box">
-                            <p>0424-5178008</p>
+                            <p>0424-1432141</p>
                         </div>
                     </div>
                 </div>

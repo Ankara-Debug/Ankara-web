@@ -8,9 +8,9 @@
                 <div class="contain__txt">
                     <h1 class="txt__title">Centro Comercial Alta Vista</h1>
 
-                    <h2 class="txt__subtitle">Caracas</h2>
+                    <h2 class="txt__subtitle">Puerto Ordaz</h2>
 
-                    <p>Av. ppal. de Los Cortijos entre 3ra transversal y autopista edificio Los Hermanos piso 1.</p>
+                    <p>Calle Caura y Cuchivero. C.C Alta Vista. Nivel 1, local 123. Sector Alta Vista.</p>
 
                     <Nuxt-link to="/Paginasinternas/Puerto/AltaVista" ><button class="button__card">Visitar Tienda</button></Nuxt-link>
                 </div>

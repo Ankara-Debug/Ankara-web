@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="Int__cont C">
-            <h1 class="titlee">Centro Comercial Damasco</h1>
+            <h1 class="titlee">El vigía</h1>
         </div>
 
         <div class="Int__body">
@@ -44,7 +44,7 @@
                     <div class="inside__first__contain">
                         <h2>Direccion</h2>
 
-                        <p class="txt__descrip s">Centro Comercial Damasco Avenida Cruz Paredes, Local #3.</p>
+                        <p class="txt__descrip s">Calle 14 con Av. 04 Local La Colonial Nro 03 Sector Centro El Vigia, Mérida </p>
                     </div>
 
                     <div class="inside__first__contain">
@@ -75,7 +75,7 @@
                             <img src="@/static/celular.svg" alt="carrito" class="icon">
                         </div>
                         <div class="contain__box">
-                            <p>0424-5178008</p>
+                            <p>0412-0769121</p>
                         </div>
                     </div>
                 </div>

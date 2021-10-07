@@ -32,12 +32,12 @@
                     <nav>
                         <ul class="list">
                             <div class="about__container ad">
-                                <li><a href="#" class="links">About</a></li>
-                                <li><a href="#" class="links">Services</a></li>
+                                <li><Nuxt-link to="/" class="lnk">Home</Nuxt-link></li>
+                                <li><Nuxt-link to="/About" class="lnk">About</Nuxt-link></li>
                             </div>
-                            <div class="about__container ad">
+                            <div class="about__container">
+                                <li><Nuxt-link to="/Stores" class="lnk">Stores</Nuxt-link></li>
                                 <li><a href="#" class="links">Gallery</a></li>
-                                <li><a href="#" class="links">Feedback</a></li>
                             </div>
                         </ul>
                     </nav>
