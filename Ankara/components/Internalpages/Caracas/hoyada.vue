@@ -82,7 +82,7 @@
             </div>
             </div>
             <div class="Int__sub__cont M">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1417.4787968529367!2d-69.31719567453904!3d10.068535796399587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e87670c3465434b%3A0x8f0c572221edb852!2sEstacionamiento%20centro%20comercial%20Cosmos!5e0!3m2!1ses!2sve!4v1633458993850!5m2!1ses!2sve" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d490.36951787210694!2d-66.9107313!3d10.5041206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a5ed169194503%3A0x40304c4d55fc4bf!2sEdificio%20La%20Galer%C3%ADa!5e0!3m2!1ses!2sus!4v1633706101851!5m2!1ses!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </div>

@@ -227,7 +227,6 @@
     display: flex;
     flex-direction: column;
     text-decoration: none;
-    border: 1px solid black;
 }
 
 
@@ -238,7 +237,6 @@
     justify-content: space-between;
     margin-left: 3em;
     text-decoration: none;
-    border: 1px solid black;
 }
 
 .links{

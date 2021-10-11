@@ -82,7 +82,7 @@
             </div>
             </div>
             <div class="Int__sub__cont M">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1417.4787968529367!2d-69.31719567453904!3d10.068535796399587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e87670c3465434b%3A0x8f0c572221edb852!2sEstacionamiento%20centro%20comercial%20Cosmos!5e0!3m2!1ses!2sve!4v1633458993850!5m2!1ses!2sve" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d693.8495562687156!2d-67.04118795309502!3d10.341419476385406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a8cfe7159d1eb%3A0xc94b7ac5f88da0ca!2sC.%20Miquil%C3%A9n%2C%20Los%20Teques%201201%2C%20Miranda%2C%20Venezuela!5e0!3m2!1ses!2sus!4v1633715526164!5m2!1ses!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </div>

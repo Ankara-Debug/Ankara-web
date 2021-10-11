@@ -82,7 +82,7 @@
             </div>
             </div>
             <div class="Int__sub__cont M">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1417.4787968529367!2d-69.31719567453904!3d10.068535796399587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e87670c3465434b%3A0x8f0c572221edb852!2sEstacionamiento%20centro%20comercial%20Cosmos!5e0!3m2!1ses!2sve!4v1633458993850!5m2!1ses!2sve" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d414.64126690738834!2d-71.64739625519094!3d8.619527208781454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e640c3a2e3cda5d%3A0xb42196fb779d2361!2sAv.%2014%2C%20El%20Vig%C3%ADa%205145%2C%20M%C3%A9rida%2C%20Venezuela!5e0!3m2!1ses!2sus!4v1633714529937!5m2!1ses!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </div>

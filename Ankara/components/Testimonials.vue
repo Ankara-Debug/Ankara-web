@@ -92,7 +92,7 @@
 
 .sub__container{
   width: 80%;
-  height: 31.5em;
+  height: 26em;
 }
 
 .card__container{

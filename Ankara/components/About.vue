@@ -86,10 +86,12 @@
         display: flex;
         justify-content: center;
         align-content: center;
+        border: 1px solid black;
     }
 
     .img{
-        width: 70%;
+
+        border: 1px solid black;
     }
 
     .container__text{
